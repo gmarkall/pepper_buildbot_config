@@ -1,1 +1,12 @@
 state.sqlite
+http.log
+lowrisc
+riscv-llvm
+twistd.log
+twistd.pid
+clean-lowrisc
+lowrisc-emu
+clean-rocket-chip
+rocket-chip-beebs
+rocket-chip-emu
+rocket-chip
